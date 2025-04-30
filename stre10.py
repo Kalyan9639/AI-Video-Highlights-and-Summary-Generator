@@ -17,7 +17,7 @@ from transformers import BlipProcessor, BlipForConditionalGeneration
 import easyocr
 
 # Insert your Google GenAI API key here
-api_key = "AIzaSyCQIYPtpOxSorTaLhsVvQuG1_ZHD-nZct4"
+api_key = "YOUR_GEMINI_API_KEY"
 
 # Sidebar configuration
 st.sidebar.header("⚙️ Configuration")
