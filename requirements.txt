@@ -1,6 +1,3 @@
-Python 3.8+
-Libraries required:
-
 streamlit
 moviepy==1.0.3
 librosa
