@@ -7,7 +7,7 @@ with open(r"C:\Users\madda\Desktop\Hackattack\transcription.txt", "r") as f:
 #     video_captions = f.read()
 
 
-client = Client(api_key="AIzaSyCQIYPtpOxSorTaLhsVvQuG1_ZHD-nZct4")
+client = Client(api_key="YOUR_GEMINI_API_KEY")
 
 def split_transcript(text, chunk_size_minutes=2, words_per_minute=150):
     words = text.split()
