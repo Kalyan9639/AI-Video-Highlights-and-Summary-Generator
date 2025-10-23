@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langgraph
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+einops
+pytorch
